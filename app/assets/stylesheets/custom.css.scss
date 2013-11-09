@@ -1,0 +1,52 @@
+@import "bootstrap";
+
+body 
+{
+	background-color: #F6F4F0;	
+}
+
+h2
+{
+	margin: 15px;	
+}
+
+h4
+{
+	margin: 0px;
+}
+
+.container
+{
+	text-align: center;
+}
+
+.tags-container
+{
+	padding: 10px;
+	margin: 10px;
+}
+
+.tags
+{
+	color: #666666;
+	border: 1px solid #666666;
+	border-radius: 3px;
+	padding: 5px;
+	margin: 7px;
+	display: inline-block;
+}
+
+.tags:hover 
+{
+	color: white;
+	background-color: #006363;
+}
+
+#landing-header
+{
+	width: 100%;
+	height: 10%;
+	background-color: #009999;
+	color: white;
+	padding: 20px;
+}
